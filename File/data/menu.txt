@@ -1,0 +1,12 @@
+F001;Classic Burger;Fast Food;Juicy beef patty, lettuce;100.0;true;10
+F002;Chicken Wrap;Fast Food;Grilled chicken, spicy sauce;120.0;true;8
+F003;Chow Mein;Fast Food;Stir-fried noodles, veggies;150.0;true;15
+F004;Lemon Tea;Beverages;Refreshing tea, citrus flavor;50.0;true;5
+F005;Smoothie;Beverages;Creamy mango, sweet blend;70.0;false;7
+F006;Cola Float;Beverages;Cola with vanilla ice cream;70.0;true;3
+F007;Brownie;Desserts;Rich, fudgy, chocolate treat;120.0;true;15
+F008;Cheesecake;Desserts;Smooth, creamy, strawberry topping;130.0;true;20
+F009;Nuggets;Snacks;Crispy fried chicken bites;100.0;false;12
+F010;Loaded Nachos;Snacks;Tortilla chips with toppings;90.0;true;8
+F011; Spring Rolls;Snacks;Light, crispy vegetable rolls;40.0;true;10
+F012;Potato Wedges;Snacks;Crispy potato with chili flake;80.0;true;10
